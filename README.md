@@ -1,1 +1,3 @@
 # LinuxHelp
+
+# license: BeerWare
